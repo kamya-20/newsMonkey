@@ -1,46 +1,253 @@
 {
     "status": "ok",
-    "totalResults": 4,
+    "totalResults": 31,
     "articles": [
-      {
-        "source": {"id": "news24", "name": "News24"},
-        "author": "Sibusiso Mjikeliso",
-        "title": "Cricket SA wants to 'get to the bottom' of Nkwe resignation concerns, says CEO | Sport",
-        "description": "Acting Cricket South Africa CEO Pholetsi Moseki says the board is concerned about the issues former Proteas assistant coach Enoch Nkwe raised in his resignation.",
-        "url": "https://www.news24.com/sport/Cricket/Proteas/cricket-sa-wants-to-get-to-the-bottom-of-nkwe-resignation-concerns-says-ceo-20210826",
-        "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/10743/97d776dc91734e98906c0e1b7f3b1afa.jpg",
-        "publishedAt": "2021-08-26T11:40:16+00:00",
-        "content": "<ul><li>Cricket South Africa has committed to \"getting to the bottom\" of Enoch Nkwe's sudden resignation as Proteas assistant coach. </li><li>Nkwe voiced concerns with the current culture and working… [+3497 chars]"
-      },
-      {
-        "source": {"id": "abc-news-au", "name": "ABC News (AU)"},
-        "author": "ABC News",
-        "title": "England cricket great Ted Dexter dies aged 86",
-        "description": "The former England captain, nicknamed \"Lord Ted\", is fondly remembered as a giant of the game and one of his country's greatest players.",
-        "url": "http://www.abc.net.au/news/2021-08-26/england-cricket-great-ted-dexter-dies-aged-86/100411276",
-        "urlToImage": "https://live-production.wcms.abc-cdn.net.au/1006c7ecf34ec0935eef2aade5017711?impolicy=wcms_crop_resize&cropH=2815&cropW=5004&xPos=0&yPos=223&width=862&height=485",
-        "publishedAt": "2021-08-26T09:07:52Z",
-        "content": "Former England captain Ted Dexter has died aged 86 following a recent illness.\r\n<ul><li>Dexter played 62 Tests for England and was captain on 30 occasions</li><li>He was inducted into the ICC Hall of… [+1746 chars]"
-      },
-      {
-        "source": {"id": "espn-cric-info", "name": "ESPN Cric Info"},
-        "author": null,
-        "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
-        "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
-        "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
-        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
-        "publishedAt": "2020-04-27T11:41:47Z",
-        "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
-      },
-      {
-        "source": {"id": "espn-cric-info", "name": "ESPN Cric Info"},
-        "author": null,
-        "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
-        "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
-        "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
-        "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
-        "publishedAt": "2020-03-30T15:26:05Z",
-        "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
-      }
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Anna Phillips",
+    "title": "California’s insurer of last resort runs out of money to pay L.A. fire claims - The Washington Post",
+    "description": "In the aftermath of the Los Angeles fires, the FAIR plan gets a $1 billion bailout — the latest indication that California’s home insurance market is on shaky footing.",
+    "url": "https://www.washingtonpost.com/weather/2025/02/11/fair-plan-payment-property-insurance/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/R47J7B37K3VHQ2HKK5NLOMHEGY_size-normalized.jpg&w=1440",
+    "publishedAt": "2025-02-12T04:56:00Z",
+    "content": "Californias home insurance plan of last resort has run out of money to pay the wave of claims stemming from the Los Angeles fires and will receive a bailout of $1 billion, state regulators announced … [+2508 chars]"
+    },
+    {
+    "source": {
+    "id": "politico",
+    "name": "Politico"
+    },
+    "author": "Michael Stratford, Declan Harty, Katy O'Donnell",
+    "title": "Trump steps up overhaul of bank oversight with key picks - POLITICO",
+    "description": "Trump and his allies are pushing for a drastic makeover of the financial regulatory system.",
+    "url": "https://www.politico.com/news/2025/02/11/trump-bank-wall-street-regulators-top-posts-00203745",
+    "urlToImage": "https://static.politico.com/9a/c8/0bfa26564139803dada37bc66e6b/trump-consumer-financial-protection-bureau-53761.jpg",
+    "publishedAt": "2025-02-12T04:06:59Z",
+    "content": "Its not clear how Trumps selection of several experienced Republican financial regulators, who are generally seen as mainstream picks that will be cheered by industry, will mesh with those efforts to… [+5440 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Motley Fool"
+    },
+    "author": "Motley Fool Transcribing",
+    "title": "Super Micro Computer (SMCI) Q2 2025 Earnings Call Transcript - The Motley Fool",
+    "description": "SMCI earnings call for the period ending December 31, 2024.",
+    "url": "https://www.fool.com/earnings/call-transcripts/2025/02/11/super-micro-computer-smci-q2-2025-earnings-call-tr/",
+    "urlToImage": "https://g.foolcdn.com/editorial/images/1/featured-transcript-logo-template-2023-01-12.jpg",
+    "publishedAt": "2025-02-12T03:15:14Z",
+    "content": "SMCI earnings call for the period ending December 31, 2024.Image source: The Motley Fool.\r\nSuper Micro Computer(SMCI -9.47%)Q2 2025 Earnings CallFeb 11, 2025, 5:00 p.m. ET\r\nContents:\r\n<ul><li>Prepare… [+47002 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "C-span.org"
+    },
+    "author": "C-SPAN",
+    "title": "Federal Reserve Chair Testifies on Monetary Policy Report - C-SPAN ",
+    "description": "Federal Reserve Chair Jerome Powell testifies on the semiannual Monetary Policy Report before the Senate Banking, Housing and Urban Affairs Committee.",
+    "url": "https://www.c-span.org/event/senate-committee/federal-reserve-chair-testifies-on-monetary-policy-report/430745",
+    "urlToImage": "https://ximage.c-spanvideo.org/eyJlZGl0cyI6eyJyZXNpemUiOnsiZml0IjoiY292ZXIiLCJoZWlnaHQiOjYzMCwid2lkdGgiOjEyMDB9fSwiYnVja2V0IjoicGljdHVyZXMuYy1zcGFudmlkZW8ub3JnIiwia2V5IjoiRmlsZXMvYmU2LzE2NDYyMzQxMzkuanBnIn0=",
+    "publishedAt": "2025-02-12T03:02:44Z",
+    "content": "C-SPAN.org offers links to books featured on the C-SPAN networks to make it simpler for viewers to purchase them. C-SPAN has agreements with retailers that share a small percentage of your purchase p… [+560 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Amala Balakrishner, Lee Ying Shan",
+    "title": "Asia-Pacific markets trade mostly higher as investors assess Trump tariff impact - CNBC",
+    "description": "India is slated to report its inflation data for January. SoftBank Group will be posting its fiscal third-quarter earnings later in the day.",
+    "url": "https://www.cnbc.com/2025/02/12/asia-pacific-markets-live-india-cpi-softbank-group-earnings.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107221461-1680756415672-gettyimages-979238792-71007633.jpeg?v=1680756591&w=1920&h=1080",
+    "publishedAt": "2025-02-12T02:48:00Z",
+    "content": "Asia-Pacific markets mostly rose Wednesday as investors digested U.S. President Donald Trump's tariff impact on regional economies.\r\nU.S. Federal Reserve Chair Jerome Powell, meanwhile, re-emphasized… [+1350 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hindustan Times"
+    },
+    "author": "HT News Desk",
+    "title": "Sam Altman attacks Elon Musk over OpenAI bid: ‘Don’t think he's a happy person' - Hindustan Times",
+    "description": "Sam Altman rebuffs Elon Musk's $97.4 billion bid for OpenAI, citing Musk's insecurity as a motive.&nbsp; | World News",
+    "url": "https://www.hindustantimes.com/world-news/sam-altman-attacks-elon-musk-over-openai-bid-don-t-think-hes-a-happy-person-101739325706525.html",
+    "urlToImage": "",
+    "publishedAt": "2025-02-12T02:21:55Z",
+    "content": "The Elon Musk versus Sam Altman feud continues to grow stronger as the OpenAI CEO on Tuesday hit out on the 'X' owner's \"insecurity\", saying that it was a factor in his decision to make a hostile bid… [+2641 chars]"
+    },
+    {
+    "source": {
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": "Bloomberg",
+    "title": "Klook Raises $100 Million, Targets Millennial, Gen Z Travelers - Bloomberg",
+    "description": null,
+    "url": "https://www.bloomberg.com/news/articles/2025-02-12/klook-raises-100-million-targets-millennial-gen-z-travelers",
+    "urlToImage": null,
+    "publishedAt": "2025-02-12T02:00:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "the-washington-post",
+    "name": "The Washington Post"
+    },
+    "author": "Tony Romm",
+    "title": "The CFPB took aim at Big Tech. Then Elon Musk moved to dismantle it. - The Washington Post",
+    "description": "In the days before Musk’s DOGE set its sights on the Consumer Financial Protection Bureau, X revealed plans for a payments system the agency might have overseen.",
+    "url": "https://www.washingtonpost.com/business/2025/02/11/elon-musk-doge-cfpb-regulations/",
+    "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/4YMYGEX4LZ454Z6YPFIQ7H7ZH4_size-normalized.jpg&w=1440",
+    "publishedAt": "2025-02-12T01:10:59Z",
+    "content": "About a week before Elon Musk helped take over the nations leading consumer financial watchdog, his social media site, X, unfurled the details of a new payment system that may have drawn federal scru… [+9892 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Hollywood Reporter"
+    },
+    "author": "Winston Cho",
+    "title": "Some Good News for Hollywood Creators Suing AI Companies - Hollywood Reporter",
+    "description": "In the first AI copyright case ruling, a court concludes that training an AI system using copyrighted material isn't fair use. That will likely be cited by creators fighting other tech giants.",
+    "url": "http://www.hollywoodreporter.com/business/business-news/reuters-ross-first-ai-copyright-case-lawsuit-1236133743/",
+    "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2023/05/2023_05-WGA-03.jpg?w=1440&h=810&crop=1",
+    "publishedAt": "2025-02-12T00:56:26Z",
+    "content": "Copyright law bars a former competitor of Thomson Reuters from using the company’s content to create an artificial intelligence-based legal platform, a court has ruled in a decision that could lay th… [+4044 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": null,
+    "title": "Goldman Sachs axes diversity rule that has 'served its purpose' - BBC.com",
+    "description": "The bank ditches a policy that stopped it acting on flotations for firms with an all male, all white board.",
+    "url": "https://www.bbc.com/news/articles/c4gwvxn5377o",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1c29/live/1a902180-e8b6-11ef-8bb2-a9986bcdac12.jpg",
+    "publishedAt": "2025-02-12T00:01:11Z",
+    "content": "Simon Jack and Dearbail JordanBusiness editor and business reporter, BBC News\r\nGoldman Sachs International's chief executive Richard Gnodde\r\nGoldman Sachs' international boss has said the bank ditche… [+4717 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Brian Evans",
+    "title": "Stock futures are little changed as traders brace for January consumer inflation report: Live updates - CNBC",
+    "description": "Traders were on guard after Federal Reserve Chair Jerome Powell said on Tuesday that the central bank is in no hurry to lower interest rates further.",
+    "url": "https://www.cnbc.com/2025/02/11/stock-market-today-live-updates.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108016333-1722874865226-gettyimages-2164949513-GLOBAL_MARKETS_SELLOFF.jpeg?v=1739312418&w=1920&h=1080",
+    "publishedAt": "2025-02-11T23:46:00Z",
+    "content": "S&amp;P 500 futures were near the flatline Tuesday evening as investors awaited January's consumer inflation report.\r\nFutures tied to the broad market index ticked up 0.03%, while Dow Jones Industria… [+1841 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "KTLA Los Angeles"
+    },
+    "author": "Marc Sternfield",
+    "title": "Canned tuna sold at major grocers recalled due to food poisoning risk - KTLA Los Angeles",
+    "description": "LOS ANGELES (KTLA) – Several brands of canned tuna sold at major stores, including Trader Joe’s, Costco, and H-E-B, have been recalled due to possible contamination. Tri-Union Seafoods, based in El Segundo, California, announced the recall last week. The affe…",
+    "url": "https://ktla.com/news/california/canned-tuna-sold-at-major-grocers-recalled-due-to-food-poisoning-risk/",
+    "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2025/02/canned-tuna.jpg?w=1280",
+    "publishedAt": "2025-02-11T22:39:24Z",
+    "content": "LOS ANGELES (KTLA) – Several brands of canned tuna sold at major stores, including Trader Joe’s, Costco, and H-E-B, have been recalled due to possible contamination. \r\nTri-Union Seafoods, based in El… [+3967 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Investor's Business Daily"
+    },
+    "author": "Investor's Business Daily",
+    "title": "Confluent Stock Jumps As Earnings, Outlook Beat Expectations - Investor's Business Daily",
+    "description": null,
+    "url": "https://www.investors.com/news/technology/confluent-stock-earnings-q4-2024-cflt-stock-news-ai-stock/",
+    "urlToImage": null,
+    "publishedAt": "2025-02-11T22:00:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Barron's"
+    },
+    "author": "Barron's",
+    "title": "DuPont Stock Rises on Strong Earnings and Outlook - Barron's",
+    "description": null,
+    "url": "https://www.barrons.com/articles/dupont-earnings-stock-price-822d0de8",
+    "urlToImage": null,
+    "publishedAt": "2025-02-11T21:33:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Brandon Gomez",
+    "title": "Tequila, mezcal are the only spirits growing in sales, but tariffs would be 'catastrophic,' industry group says - CNBC",
+    "description": "U.S. spirits sales declined in 2024 despite maintaining its market share ahead of beer and wine. Tequila and Mezcal grew, but tariffs could change that.",
+    "url": "https://www.cnbc.com/2025/02/11/tequila-mezcal-sales-are-growing-but-mexico-tariffs-may-hit-industry.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/108074418-17339238562024-12-11t112905z_134367768_rc2lmbawodia_rtrmadp_0_usa-trump-tariffs-tequila.jpeg?v=1739313322&w=1920&h=1080",
+    "publishedAt": "2025-02-11T21:16:09Z",
+    "content": "The U.S. spirits industry maintained its market share leadership over beer and wine for a third straight year in 2024, even as revenues slid, according to new data released Tuesday.\r\nSpirits supplier… [+2806 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Investor's Business Daily"
+    },
+    "author": "Investor's Business Daily",
+    "title": "Apple Reportedly Picks Alibaba As China AI Partner - Investor's Business Daily",
+    "description": null,
+    "url": "https://www.investors.com/news/technology/apple-stock-alibaba-china-ai/",
+    "urlToImage": null,
+    "publishedAt": "2025-02-11T21:16:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Investor's Business Daily"
+    },
+    "author": "Investor's Business Daily",
+    "title": "Gold Stocks Tee Up With One In Buy Range: $3,000 Milestone Gleams - Investor's Business Daily",
+    "description": null,
+    "url": "https://www.investors.com/news/gold-stocks-earnings-q4-barrick-agnico-kinross-royal-gold-prices/",
+    "urlToImage": null,
+    "publishedAt": "2025-02-11T21:04:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "MarketWatch"
+    },
+    "author": "Vivien Lou Chen",
+    "title": "Forget CPI. This market indicator says inflation may stay above 2% for years. - MarketWatch",
+    "description": "‘There’s still a little bit of sticker shock left over from the 2021-22 inflation spike,’ says Mark Heppenstall, chief investment officer of Penn Mutual Asset Management",
+    "url": "https://www.marketwatch.com/story/forget-cpi-this-market-indicator-says-inflation-may-stay-above-2-for-years-98a4dad5",
+    "urlToImage": "https://images.mktw.net/im-44299269/social",
+    "publishedAt": "2025-02-11T20:40:00Z",
+    "content": "Investors and traders were bracing for Wednesdays consumer-price index report for January to mostly reflect either little change from or a slight improvement over the final month of 2024. Yet one par… [+439 chars]"
+    },
+    {
+    "source": {
+    "id": "techcrunch",
+    "name": "TechCrunch"
+    },
+    "author": "Julie Bort",
+    "title": "Anduril takes control of Microsoft’s $22B VR military headset program - TechCrunch",
+    "description": "The Army plans to grant upstart weapons maker Anduril control of one of its highest-profile and long-troubled projects known as the Integrated Visual",
+    "url": "https://techcrunch.com/2025/02/11/anduril-takes-control-of-microsofts-22b-vr-military-headset-program/",
+    "urlToImage": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2152503982-e.jpg?resize=1200,800",
+    "publishedAt": "2025-02-11T20:03:27Z",
+    "content": "The Army plans to grant upstart weapons maker Anduril control of one of its highest-profile and long-troubled projects known as the Integrated Visual Augmentation System (IVAS) pending final Departme… [+4018 chars]"
+    }
     ]
-  }
+    }
